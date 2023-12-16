@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "research"
+  site-url: "https://numb3r33.github.io/research"
+  description: "Implementing research papers using fast.ai"
+  repo-branch: main
+  repo-url: "https://github.com/numb3r33/research"
